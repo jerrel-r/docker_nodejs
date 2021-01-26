@@ -1,0 +1,19 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "34.122.100.233",
+  "port": "22",
+  "target": "/home/jerrel/node_project/node_JS2-Versie 2.0/\r\n",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "jerrel",
+  "keyfile": "C:\\Users\\Jerre\\OneDrive\\DOCUME~1\\HvA 2017-2018-2019-2020-2021\\HBO-ICT-SNE-CS 2020-2021\\Project Cybersecurity - TS\\Pub priv keys\\Privatekeymoba.ppk",
+  "watch": [],
+  "transport": "scp"
+}
